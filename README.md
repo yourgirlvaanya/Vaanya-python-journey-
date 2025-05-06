@@ -1,4 +1,6 @@
 # 💻 Vaanya's Python Journey 🐍💅
+![Coding Queen Badge](https://img.shields.io/badge/Coding_Queen-100DaysOfPython💖-ff69b4)
+
 
 Hey besties! I'm Vaanya, a 12th grader manifesting my dream to study AI at MIT/Stanford/Oxford 🧠✨  
 This is my **100 Days of Python** challenge — one line of code at a time. I'm documenting everything right here 👇
