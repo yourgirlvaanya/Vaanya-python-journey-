@@ -15,5 +15,5 @@ This is my **100 Days of Python** challenge — one line of code at a time. I'm 
 
 ## 🔗 Connect With Me
 - Replit: [@VaanyaTheDiva](https://replit.com/@VaanyaTheDiva)
-- Coming soon: My Notion board, maybe 👀
+- Coming soon: My Notion board, maybe 👀..
 
