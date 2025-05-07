@@ -1,22 +1,40 @@
-# 💻 Vaanya's Python Journey 🐍💅
+# 🌸 Vaanya’s Python Coding Journey 🌸
 ![Coding Queen Badge](https://img.shields.io/badge/Coding_Queen-100DaysOfPython💖-ff69b4)
+Hey hey! I’m **Vaanya**, a 12th grader manifesting big tech girl dreams 💻✨  
+This repo is my ✨100 Days of Python✨ journey, powered by Replit, curiosity, and vibes.
 
+---
 
-Hey besties! I'm Vaanya, a 12th grader manifesting my dream to study AI at MIT/Stanford/Oxford 🧠✨  
-This is my **100 Days of Python** challenge — one line of code at a time. I'm documenting everything right here 👇
+## 🗓️ Day Tracker
+| Day | Topic Covered | Status |
+|-----|----------------|--------|
+| Day 1 | Intro + Setup | ✅ Done |
+| Day 2 | Inputs + Strings | ✅ Done |
+| Day 3 | (Update this!) | 🔜 Coming soon |
 
-## 🚀 Goals
-- Master Python basics
-- Build real projects
-- Get into my dream university abroad
-- Become *that* girl in AI & tech 😌
+---
 
-## 🗂 Daily Logs
-- ✅ Day 1: `print()` statements — I'm live, baby!
-- ✅ Day 2: Talked to my user like a queen with `input()` 💅
-- ✅ Day 3: Made a wild dessert with my even more wilder user using 'concat'✨
+## 💖 About Me
+- 🏫 ISC Class of 2026
+- 🧠 Obsessed with AI & creative tech
+- 🎓 Manifesting MIT | Stanford | Carnegie | Oxford (yes all of them)
+- 🍝 Pasta enthusiast & Bollywood fangirl
+- 🔮 Believer in vibes, vision boards & hard work
 
-## 🔗 Connect With Me
-- Replit: [@VaanyaTheDiva](https://replit.com/@VaanyaTheDiva)
-- Coming soon: My Notion board, maybe 👀..
+---
 
+## 💾 Tools I’m Using
+- Replit for coding on the go 📱
+- GitHub for tracking my progress 🧠
+- Milanote for that aesthetic planning life 🎨
+
+---
+
+## 🔗 Let’s connect
+- 📍 GitHub: [yourgirlvaanya](https://github.com/yourgirlvaanya)
+- 📓 Replit Profile: [VaanyaTheDiva](https://replit.com/@VaanyaTheDiva)
+- 💌 DM me if you're coding too—let’s grow together!
+
+---
+
+> _“She remembered who she was and the game changed.”_ — That’s the energy 💅
