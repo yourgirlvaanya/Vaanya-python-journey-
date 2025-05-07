@@ -1,5 +1,6 @@
 # 🌸 Vaanya’s Python Coding Journey 🌸
 ![Coding Queen Badge](https://img.shields.io/badge/Coding_Queen-100DaysOfPython💖-ff69b4)
+
 Hey hey! I’m **Vaanya**, a 12th grader manifesting big tech girl dreams 💻✨  
 This repo is my ✨100 Days of Python✨ journey, powered by Replit, curiosity, and vibes.
 
@@ -10,7 +11,7 @@ This repo is my ✨100 Days of Python✨ journey, powered by Replit, curiosity, 
 |-----|----------------|--------|
 | Day 1 | Intro + Setup | ✅ Done |
 | Day 2 | Inputs + Strings | ✅ Done |
-| Day 3 | (Update this!) | 🔜 Coming soon |
+| Day 3 | Concat + print |✅ Done |
 
 ---
 
