@@ -14,6 +14,7 @@ This is my **100 Days of Python** challenge — one line of code at a time. I'm 
 ## 🗂 Daily Logs
 - ✅ Day 1: `print()` statements — I'm live, baby!
 - ✅ Day 2: Talked to my user like a queen with `input()` 💅
+- ✅ Day 3: Made a wild dessert with my even wilder user using 'concat'✨
 
 ## 🔗 Connect With Me
 - Replit: [@VaanyaTheDiva](https://replit.com/@VaanyaTheDiva)
