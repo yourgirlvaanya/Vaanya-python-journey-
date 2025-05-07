@@ -1,1 +1,11 @@
-https://replit.com/@yourgirlvaanya/day-3100-days#main.py
+food= input("Give me a wild food item to make a dessert!")
+plant= input("Now give me a plant to incorporate into our wild dessert")
+print("LET'S MAKE IT WILDER!!")
+met= input("Gimme a method of cooking")
+lol= input("Give me a word describing our wild dessert")
+diy= input("Now tell me a diy item")
+print("Here's our wild dessert!!")
+print("Take a", food, "and", "melt it then crush the", plant, "and add into it.")
+print(" Now we will", met, "it and it will become a beautiful", lol, "dessert!!") 
+print("And at last, take a", diy, "and put it as a garnish on the top o make it even more wild!!")
+print("And that is your wildd dessert all ready to be served!!")
